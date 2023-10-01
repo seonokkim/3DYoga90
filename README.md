@@ -1,9 +1,9 @@
 # 3DYoga90
-![Screen Shot 2023-10-02 at 6.25.05 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/39e7032a-9f2a-403d-83b4-3a3ee8d34644/a3728ae3-d004-441f-bcc1-00720e394aa3/Screen_Shot_2023-10-02_at_6.25.05_AM.png)
+![pose_hierarchy](./pose_hierarchy.png)
 
 This repo is the official repo of 3DYoga90 dataset. If you want to download original videos and sequences, follow the steps below. 
 
-![Screen Shot 2023-10-02 at 6.25.36 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/39e7032a-9f2a-403d-83b4-3a3ee8d34644/a647bf06-ac2a-406e-a99a-c059ddba733b/Screen_Shot_2023-10-02_at_6.25.36_AM.png)
+![process_flow](./process_flow.png)
 
 Step 1. Download raw videos.
 
