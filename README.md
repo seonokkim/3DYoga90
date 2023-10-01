@@ -29,3 +29,8 @@ python skeleton_generator.py
 ```
 
  If you want to download the skeleton dataset of sequences, download files from [google drive](https://drive.google.com/drive/folders/11SOWVJ5CF5pbkftMqogVP5Pkyg88hbau?usp=sharing). The dataset structure is inspired by [Google - Isolated Sign Language Recognition](https://www.kaggle.com/competitions/asl-signs/data?select=train_landmark_files).
+
+
+## License
+This project is licensed under the terms of the MIT license.
+Third-party datasets are subject to their license.
