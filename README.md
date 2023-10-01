@@ -1,9 +1,9 @@
 # 3DYoga90
-![pose_hierarchy](./pose_hierarchy.png)
+![](./pose_hierarchy.png)
 
 This repo is the official repo of 3DYoga90 dataset. If you want to download original videos and sequences, follow the steps below. 
 
-![process_flow](./process_flow.png)
+![](./process_flow.png)
 
 Step 1. Download raw videos.
 
