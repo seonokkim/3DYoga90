@@ -35,6 +35,6 @@ Third-party datasets are subject to their license.
 
 
 ## Acknowledgement
-We made our dataset and code influenced by the source below. We thank the authors for releasing the codes and dataset.
+We created our dataset and codes influenced by the source below. We thank the authors for releasing the codes and dataset.
 - [MS-ASL](https://www.microsoft.com/en-us/research/project/ms-asl/)
 - [WLASL](https://github.com/dxli94/WLASL)
