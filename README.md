@@ -29,8 +29,7 @@ python skeleton_generator.py
 
 
 ## License
-This project is licensed under the terms of the MIT license.
-Third-party datasets are subject to their license.
+The annotations of 3DYoga90 are copyright by us and published under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
 
 
