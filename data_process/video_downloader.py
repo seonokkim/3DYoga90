@@ -1,4 +1,4 @@
-wimport json
+import json
 import os
 import time
 import random
