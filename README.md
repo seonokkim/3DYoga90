@@ -5,7 +5,7 @@ This repo is the official repo of 3DYoga90 dataset. If you want to download orig
 
 ![](figures/process_flow.png)
 
-Step 1. Download raw videos.
+Step 1. Download [3DYoga90.json](https://github.com/seonokkim/3DYoga90/blob/main/data/3DYoga90.json) and locate it in the same folder of [video_downloader.py](https://github.com/seonokkim/3DYoga90/blob/main/data_process/video_downloader.py) in order to download raw videos.
 
 ```
 cd data_process
