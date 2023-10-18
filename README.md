@@ -3,6 +3,9 @@
 
 This repo is the official repo of 3DYoga90 dataset. If you want to download original videos and sequences, follow the steps below. 
 
+> **3DYoga90: A Hierarchical Video Dataset for Yoga Pose Understanding** <br>
+> 	[[arXiv](https://arxiv.org/abs/2310.10131)]  <br>
+
 ![](figures/process_flow.png)
 
 Step 1. Download [3DYoga90.json](https://github.com/seonokkim/3DYoga90/blob/main/data/3DYoga90.json) and locate it in the same folder of [video_downloader.py](https://github.com/seonokkim/3DYoga90/blob/main/data_process/video_downloader.py) in order to download raw videos.
