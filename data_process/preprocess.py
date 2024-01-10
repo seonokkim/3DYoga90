@@ -56,8 +56,8 @@ def cut_videos_from_json(json_file = '3DYoga90.json', videos_folder='trimmed_mp4
 
         for inst in instances:
             url = inst['url']
-            start_frame = inst['start_frame'] - 1
-            end_frame = inst['end_frame'] - 1
+            start_frame = inst['frame_start'] - 1
+            end_frame = inst['frame_end'] - 1
 
             yt_identifier = url[-11:]
             src_videos = os.path.join(src_video_path, yt_identifier + '.mp4')
@@ -78,6 +78,7 @@ def cut_videos_from_json(json_file = '3DYoga90.json', videos_folder='trimmed_mp4
                 # Use moviepy to cut the video
                 clip = VideoFileClip(src_videos).subclip(start_frame, end_frame)
                 clip.write_videofile(dst_videos)
+                clip.close()
 
                 print(f'Video {video_id} cut and saved to {dst_videos}')
 
